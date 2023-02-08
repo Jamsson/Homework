@@ -1,0 +1,8 @@
+F:\Информатика\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\Информатика\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\Информатика\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\Информатика\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+F:\Информатика\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+F:\Информатика\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\Информатика\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\Информатика\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
